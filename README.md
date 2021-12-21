@@ -3,10 +3,10 @@
   Implement a system consisting of Sales Agent(SA)
   SA is a customer as well
   SA will be assigned with products, and receive commission when customer buy their product
-2. New Attributes
+2. New Attributes:
   Customer: is_sales_agent(boolean)
   Product: sale_agent_id, commission_type(fixed/percent), commission_value
-3. Tables
+3. Tables:
   entity_id
   order_id
   order_item_id
@@ -16,7 +16,7 @@
   comission_value
   Be sure to apply an appropriate data type to each field. (You can edit the table structure if you feel
   necessary.
-4. Features
+4. Features:
   a. Backend:
     - Admin will be able to assign SA, commission type, value to each product
     - Commission report. Only do 1 out of 2 below:
