@@ -32,5 +32,5 @@
       + commission type, commision value.
       
     c. Global:
-    - SA's first name will be displayed as "Sales Agent: <firstname>" instead of "<firstname>" on
+    - SA's first name will be displayed as "Sales Agent: firstname" instead of "firstname" on
       all pages of the website.
